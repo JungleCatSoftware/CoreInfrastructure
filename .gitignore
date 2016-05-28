@@ -1,0 +1,10 @@
+# Vagrant stuff
+/.vagrant/
+/.vagrant_cache/
+
+# r10k files
+/puppet/modules/**/
+/puppet/vendor/
+
+# Vim
+.*.swp

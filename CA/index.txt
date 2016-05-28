@@ -1,0 +1,2 @@
+V	260526170138Z		01	unknown	/C=US/ST=Washington/O=Jungle Cat Software/CN=foreman.example.net
+V	260526194900Z		02	unknown	/C=US/ST=Washington/O=Jungle Cat Software/CN=puppet.example.net

@@ -1,0 +1,6 @@
+---
+:yaml:
+  :datadir: "hieradata/"
+:hierarchy:
+  - "nodetypes/%{::nodetype}"
+  - "global"
